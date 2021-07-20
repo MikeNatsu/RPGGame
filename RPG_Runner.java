@@ -1,4 +1,3 @@
-// Name:Michael Gonzalez Santamaria
 // Date:11/19/2020
 
 import java.util.Scanner;
